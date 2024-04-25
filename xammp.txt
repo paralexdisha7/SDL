@@ -1,0 +1,31 @@
+1)Download xampp from official website
+
+2) Terminal-
+
+cd Downloads
+
+ls -al
+
+sudo chmod +x xampp.....(copy paste the file name from list)
+
+enter pc password
+
+sudo /xampp.....(copy paste the file name from list)
+
+sudo opt/lampp/lampp start(displays mysql and apache running)
+
+3)type localhost on web browser and click for phpmyadmin
+
+4)To create folder-
+
+sudo chmod -R 777 opt/lampp/htdocs
+
+A
+
+5)Open htdocs and create folder 'Practical'
+
+6)Open the folder in vscode
+
+7)write php and html files
+
+8)localhost/Practical/index.php ----->on web browser
